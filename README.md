@@ -67,3 +67,7 @@ Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
 - [Kaggle](https://www.kaggle.com/datasets)
 - [Data for Practice & Projects](https://infoguides.gmu.edu/find-data/practice)
 - [43 Free Datasets for Building an Irresistible Portfolio (2023)](https://www.dataquest.io/blog/free-datasets-for-projects/)
+
+### Books
+- [Stanford University - An Introduction to Statistical Learning](https://www.statlearning.com/)
+
