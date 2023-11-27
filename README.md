@@ -62,3 +62,8 @@ Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
     - [JSON Cheat Sheet](https://codebeautify.org/json-cheat-sheet)
 - YAML
     - [Learn X in Y minutes Where X=yaml](https://learnxinyminutes.com/docs/yaml/)
+
+### Open Datasets
+- [Kaggle](https://www.kaggle.com/datasets)
+- [Data for Practice & Projects](https://infoguides.gmu.edu/find-data/practice)
+- [43 Free Datasets for Building an Irresistible Portfolio (2023)](https://www.dataquest.io/blog/free-datasets-for-projects/)
