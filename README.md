@@ -1,27 +1,11 @@
 # Computer Science Learning Plan
 
-## Calendar
-```
-    December 2023          January 2024
-Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
-                1  2       1  2  3  4  5  6
- 3  4  5  6  7  8  9    7  8  9 10 11 12 13
-10 11 12 13 14 15 16   14 15 16 17 18 19 20
-17 18 19 20 21 22 23   21 22 23 24 25 26 27
-24 25 26 27 28 29 30   28 29 30 31
-31
-```          
-
-## Time Off Schedules
-- NISD Holidays: Dec 22 - Jan 9
-- Work Vacation: Dec 22 - Jan 2, Jan 8 - Jan 12
-
 ## Online Courses:
 - [(Crash Course): Computer Science Preview](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo): ~8h
-- [Harvard CS50’s Introduction to Programming with Python – Full University Course](https://www.youtube.com/watch?v=nLRL_NcnK-4) ~16h   
+- [Harvard CS50p Introduction to Programming with Python - Full University Course](https://www.youtube.com/watch?v=nLRL_NcnK-4) ~16h
     - [Course Slides, Etc](https://cs50.harvard.edu/python/2022/)
-
-## Other Quick Introductions:
+- [Harvard CS50x Introduction to Computer Science](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4) ~24h
+    - [Course Slides, Etc](https://cs50.harvard.edu/x/2024/)
 
 ### Help Resources
 - [Google](https://www.google.com/) / [StackOverflow](https://stackoverflow.com/) - Effective Searching 
